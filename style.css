@@ -86,7 +86,7 @@ hr {
 }
 
 .user{
-    top: 8px;
+    top: 3px;
     position: relative;
 }
 
@@ -96,7 +96,7 @@ hr {
     left: 60px;
 }
 .copy{
-    top: 8px;
+    top: 3px;
     position: relative;
 }
 
@@ -106,7 +106,7 @@ hr {
     left: 120px;
 }
 .speaker{
-    top: 8px;
+    top: 3px;
     position: relative;
 }
 .next
