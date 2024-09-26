@@ -40,7 +40,7 @@ const getNewQuote = async () => {
 
     //tweet the quote
     // tweetButton.href="https://twitter.com/intent/tweet?text="+quote+" ~ "+auth;
-    tweetButton.href = "https://bibek10550.github.io/bibek/";
+    tweetButton.href = "https://bibekchandsah.github.io/bibek/";
 
 }
 
